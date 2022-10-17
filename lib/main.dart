@@ -7,7 +7,7 @@ import 'constants.dart';
 import 'package:flutter_firebase_vote/state/vote.dart';
 import 'package:flutter_firebase_vote/state/authentication.dart';
 import 'package:flutter_firebase_vote/utilities.dart';
-
+//test1
 void main() => runApp(VoteApp());
 
 class VoteApp extends StatelessWidget {
